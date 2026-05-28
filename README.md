@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhilashBonagoni
-- 👀 I’m interested in learning ...
+- 👀 I’m interested in learning Data Science
 - 🌱 I’m currently learning Phyton
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me abhilash.bonagoni@gmail.com
 - 😄 Pronouns: Abhi
 - ⚡ Fun fact: ...
